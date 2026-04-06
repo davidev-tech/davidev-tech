@@ -24,4 +24,4 @@
 🎨 *Repositório principal organizado seguindo as normas da [PEP 8](https://peps.python.org).*
 
 📫 *Como me encontrar:* www.linkedin.com/in/
-davi-dev19
+davidev-tech
