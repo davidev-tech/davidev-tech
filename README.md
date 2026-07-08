@@ -1,7 +1,7 @@
 # Olá, eu sou o Davi! 👋 
 
 ### 👨‍💻 Sobre mim
-- 🎓 Graduando em **Engenharia de Software** (3º Período).
+- 🎓 Graduando em **Engenharia de Software** (4º Período).
 - 🐍 Dominando a trilha de **Python 3** (Curso em Vídeo).
 - 🎯 Foco atual: **Estruturas Compostas** (Mundo 3) e **Orientação a Objetos** (Mundo 4).
 - ☕ Próximos passos: Transição para o ecossistema **Java & Spring Boot**.
