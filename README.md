@@ -48,7 +48,7 @@
 
 ### 📂 Projetos em Destaque
 
-#### 🐍 [formação-python](https://github.com/davidev-tech/Curso_em_Video_Python))  
+#### 🐍 [formação-python](https://github.com/davidev-tech/Curso_em_Video_Python)  
 **+100 exercícios resolvidos** e anotações cobrindo toda a trilha de Python:
 - Fundamentos, condicionais, laços
 - Tuplas, listas, dicionários, funções
