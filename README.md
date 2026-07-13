@@ -17,7 +17,7 @@
 ### 📈 Trilha de Aprendizado Python
 - [x] **Mundo 1:** Fundamentos e Condicionais ✅
 - [x] **Mundo 2:** Estruturas de Repetição ✅
-- [ ] **Mundo 3:** Estruturas Compostas (Tuplas, Listas, Dicionários e Funções) 🚧
+- [x] **Mundo 3:** Estruturas Compostas (Tuplas, Listas, Dicionários e Funções) 🚧
 - [ ] **Mundo 4:** Programação Orientada a Objetos (POO) ⏳
 
 ---
