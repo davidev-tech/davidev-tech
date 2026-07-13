@@ -1,4 +1,3 @@
-<!-- Cabeçalho com badge de visitas (opcional) -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue" alt="Profile views" />
   <h1>Davi Dev Tech</h1>
@@ -8,21 +7,22 @@
 ---
 
 ### 🧠 Sobre mim
-- 🎓 Cursando o **4º período de Engenharia de Software**, construindo bases sólidas para atuar no backend.
-- 🐍 Concluí a formação completa de **Python 3** pelo Curso em Vídeo (Mundos 1, 2 e 3) — do `print("Hello, World!")` à manipulação de arquivos e modularização.
-- 🗄️ Mergulhando agora em **Modelagem de Dados** e **PostgreSQL** (Boson Treinamentos), unindo a linguagem à persistência profissional.
-- 🚀 Próximo passo: dominar a integração Python + bancos de dados e, futuramente, o ecossistema Java/Spring Boot.
+- 🎓 Cursando o **4º período de Engenharia de Software**, com foco em backend e bancos de dados.
+- 🐍 Concluí a formação completa de **Python 3** pelo Curso em Vídeo (Mundos 1, 2 e 3) — do fundamental à manipulação de arquivos e modularização.
+- 🗄️ Aprimorando agora **Modelagem de Dados** e **PostgreSQL** (Boson Treinamentos) para unir código e persistência.
+- 📚 Valorizo boas práticas de documentação, código limpo e metodologias ágeis (Kanban na prática, base de Scrum).
+- 💻 Uso **Git Bash** diariamente para versionamento de todos os meus estudos e projetos.
 
-> *“Código limpo, modelagem bem pensada e um banco de dados robusto são o tripé de qualquer sistema que se preze.”*
+> *“Código limpo, modelagem bem pensada e um banco de dados robusto formam a base de qualquer sistema confiável.”*
 
 ---
 
 ### 🎯 Foco Atual
-| Área                 | Status                    |
-|----------------------|---------------------------|
-| Modelagem de Dados   | Em andamento (Boson)      |
-| PostgreSQL           | Próximo módulo (Boson)    |
-| Python + SQL         | Em breve (projetos)       |
+| Área                   | Status                     |
+|------------------------|----------------------------|
+| Modelagem de Dados     | Em andamento (Boson)       |
+| PostgreSQL             | Próximo módulo (Boson)     |
+| Python + SQL           | Integração em breve        |
 
 ---
 
@@ -31,10 +31,10 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Git Bash" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
 </p>
 
 ---
@@ -53,25 +53,27 @@
 - Fundamentos, condicionais, laços
 - Tuplas, listas, dicionários, funções
 - Modularização, tratamento de erros, arquivos
-- Código comentado, organizado por mundo e com foco em legibilidade (PEP 8)
+- Código comentado, organizado por mundo e seguindo a PEP 8
 
 > **Em construção:** projetos integrando Python e PostgreSQL, aplicando modelagem de dados com casos reais.
 
 ---
 
 ### 💡 Habilidades em Desenvolvimento
-- Modelagem conceitual e lógica de dados (entidade-relacionamento, normalização)
-- SQL avançado: consultas, subconsultas, funções de agregação, índices
-- Integração Python ↔ PostgreSQL com psycopg2 e SQLAlchemy
-- Versionamento semântico e documentação limpa
+- Modelagem conceitual e lógica (entidade-relacionamento, normalização)
+- SQL avançado: consultas, subconsultas, agregações, índices
+- Integração Python ↔ PostgreSQL (psycopg2, SQLAlchemy)
+- Versionamento semântico e documentação limpa com Markdown
 
 ---
 
 ### 📈 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidev-tech&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidev-tech&layout=compact&langs_count=7&theme=github_dark" alt="Top Languages" />
 </div>
+
+> Substitua `davidev-tech` pelo seu verdadeiro username do GitHub nos dois links acima.
 
 ---
 
