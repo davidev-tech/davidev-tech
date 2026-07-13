@@ -1,27 +1,33 @@
-# Olá, eu sou o Davi! 👋 
+# Olá, eu sou o Davi! 👋
 
 ### 👨‍💻 Sobre mim
 - 🎓 Graduando em **Engenharia de Software** (4º Período).
-- 🐍 Dominando a trilha de **Python 3** (Curso em Vídeo).
-- 🎯 Foco atual: **Estruturas Compostas** (Mundo 3) e **Orientação a Objetos** (Mundo 4).
-- ☕ Próximos passos: Transição para o ecossistema **Java & Spring Boot**.
+- 🐍 Concluí a trilha de **Python 3** (Curso em Vídeo) — do fundamental a estruturas de dados e modularização.
+- 🗄️ Foco atual: **Modelagem de Dados** e **PostgreSQL** (Boson Treinamentos).
+- 🚀 Visão de futuro: construir soluções backend escaláveis e integradas a bancos de dados.
 
-### 🛠️ Tecnologias e Ferramentas (Foco Atual)
-*   **Linguagem Principal:** Python 3 (Dominando a [PEP 8](https://peps.python.org)) 🐍
-*   **Controle de Versão:** Git, GitHub & **Git Bash** (CLI) 💻
-*   **Ambiente de Desenvolvimento:** VS Code 💻
-*   **Conhecimentos Complementares:** Metodologias Ágeis (Scrum/Kanban) e Markdown 📝
+### 🎯 Foco de Estudos Atual
+- Modelagem conceitual, lógica e normalização de dados.
+- SQL avançado e administração de bancos **PostgreSQL**.
+- Integração prática entre Python e bancos de dados (psycopg2/SQLAlchemy).
 
----
+### 🛠️ Stack & Ferramentas
+- **Linguagens:** Python 3 (nível intermediário) | SQL (em aprendizado)
+- **Banco de Dados:** PostgreSQL
+- **Controle de Versão:** Git, GitHub, Git Bash
+- **Ambiente:** VS Code
+- **Práticas:** Clean Code, PEP 8, Metodologias Ágeis (Scrum/Kanban), Markdown
 
-### 📈 Trilha de Aprendizado Python
-- [x] **Mundo 1:** Fundamentos e Condicionais ✅
-- [x] **Mundo 2:** Estruturas de Repetição ✅
-- [x] **Mundo 3:** Estruturas Compostas (Tuplas, Listas, Dicionários e Funções) 🚧
-- [ ] **Mundo 4:** Programação Orientada a Objetos (POO) ⏳
+### 📚 Formação & Certificações
+- **Python 3 – Mundos 1, 2 e 3** — Curso em Vídeo (carga horária completa)
+- **Modelagem de Dados** — Boson Treinamentos (em andamento)
+- **PostgreSQL** — Boson Treinamentos (próximo módulo)
 
----
-🎨 *Repositório principal organizado seguindo as normas da [PEP 8](https://peps.python.org).*
+### 📂 Destaques do GitHub
+- 🔗 [**python-exercicios**](https://github.com/seu-usuario/python-exercicios)  
+  +100 exercícios resolvidos e anotações cobrindo toda a trilha de Python. Organizado por módulo, com foco em boas práticas e legibilidade.
 
-📫 *Como me encontrar:* www.linkedin.com/in/
-davidev-tech
+> ⏳ *Em breve:* projetos integrando Python + PostgreSQL, aplicando modelagem de dados na prática.
+
+### 📫 Vamos conversar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidev-tech)
