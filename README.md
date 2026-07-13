@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?davidev-tech&color=blue" alt="Profile views" />
   <h1>Davi Dev Tech</h1>
   <p><em>Engenharia de Software · Python · Modelagem de Dados · PostgreSQL</em></p>
 </div>
@@ -40,7 +40,7 @@
 ---
 
 ### 📚 Formação & Certificações
-- ✅ **Python 3 – Mundos 1, 2 e 3** (Curso em Vídeo) – [Certificado](link-do-seu-certificado)  
+- ✅ **Python 3 – Mundos 1, 2 e 3** (Curso em Vídeo)  
 - 🚧 **Modelagem de Dados** (Boson Treinamentos) – em progresso  
 - ⏳ **PostgreSQL** (Boson Treinamentos) – próximo módulo  
 
