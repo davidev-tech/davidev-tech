@@ -67,19 +67,9 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidev-tech&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidev-tech&layout=compact&langs_count=7&theme=github_dark" alt="Top Languages" />
-</div>
-
-> Substitua `davidev-tech` pelo seu verdadeiro username do GitHub nos dois links acima.
-
----
-
 ### 🤝 Vamos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidev-tech)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidev-tech)
 
 ---
 
