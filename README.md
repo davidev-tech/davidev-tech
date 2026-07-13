@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?davidev-tech&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=davidev-tech&color=blue" alt="Profile views" />
   <h1>Davi Dev Tech</h1>
   <p><em>Engenharia de Software · Python · Modelagem de Dados · PostgreSQL</em></p>
 </div>
