@@ -55,12 +55,6 @@ Organizei meus projetos e estudos em **10 listas temáticas** de stars. Clique n
 | ⚙️ Templates & Configurações | [Ver lista](https://github.com/stars/davidev-tech/lists/templates-configura%C3%A7%C3%B5es) |
 | 🧭 Planejamento & Metas | [Ver lista](https://github.com/stars/davidev-tech/lists/planejamento-metas) |
 
-> **⚠️ Importante:** Os links acima são provisórios. Para acertar o slug exato de cada lista:
-> 1. No seu perfil, vá em **Stars**.
-> 2. Clique no nome da lista (ex.: "📚 Trilhas de Estudo").
-> 3. Copie a URL inteira do navegador (termina com `list=...`).
-> 4. Substitua o link na tabela acima pelo valor correto.
-
 ---
 
 ## 🎯 Foco Atual
