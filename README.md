@@ -73,21 +73,13 @@ Organizei meus projetos e estudos em listas navegáveis. Escolha uma categoria:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/davidev-tech">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidev-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/davidev-tech">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidev-tech&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidev-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidev-tech&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=davidev-tech&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=davidev-tech&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
-
-<sub>⚡ As estatísticas são atualizadas a cada 24h e refletem apenas repositórios públicos. Para métricas em tempo real, visite os repositórios individuais.</sub>
 
 ---
 
