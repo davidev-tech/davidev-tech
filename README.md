@@ -34,29 +34,32 @@ Estou ativamente procurando uma **oportunidade de estágio em desenvolvimento de
 - Dados (modelagem relacional, SQL, PostgreSQL)
 - Ambientes que valorizem aprendizado contínuo e qualidade de código.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidev-tech)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidev.tech@gmail.com)
+*Entre em contato pelos links no final desta página.*
 
 ---
 
 ## 📂 Explore meus repositórios
 
-Organizei meus projetos e estudos em **listas temáticas** de stars. Clique no nome da lista para ver os repositórios correspondentes:
+Organizei meus projetos e estudos em **10 listas temáticas** de stars. Clique no nome da lista para ver os repositórios:
 
-| Lista | Link |
-|-------|------|
-| 📚 Trilhas de Estudo | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=trilhas-de-estudo) |
-| 🛠️ Projetos & Sistemas | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=projetos-sistemas) |
-| 📚 Aprendizado em Andamento | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=aprendizado-em-andamento) |
-| ✅ Aprendizado Concluído | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=aprendizado-concluido) |
-| ⏸️ Em Pausa | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=em-pausa) |
-| 🛠️ Projetos em Andamento | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=projetos-em-andamento) |
-| 🚀 Projetos Concluídos | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=projetos-concluidos) |
-| 🧪 Laboratório & Experimentos | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=laboratorio-experimentos) |
-| ⚙️ Templates & Configurações | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=templates-configuracoes) |
-| 🧭 Planejamento & Metas | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=planejamento-metas) |
+| Lista | Link (substitua com a URL da lista) |
+|-------|-------------------------------------|
+| 📚 Trilhas de Estudo | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=TRILHAS-DE-ESTUDO) |
+| 🛠️ Projetos & Sistemas | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=PROJETOS-SISTEMAS) |
+| 📚 Aprendizado em Andamento | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=APRENDIZADO-EM-ANDAMENTO) |
+| ✅ Aprendizado Concluído | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=APRENDIZADO-CONCLUIDO) |
+| ⏸️ Em Pausa | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=EM-PAUSA) |
+| 🛠️ Projetos em Andamento | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=PROJETOS-EM-ANDAMENTO) |
+| 🚀 Projetos Concluídos | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=PROJETOS-CONCLUIDOS) |
+| 🧪 Laboratório & Experimentos | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=LABORATORIO-EXPERIMENTOS) |
+| ⚙️ Templates & Configurações | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=TEMPLATES-CONFIGURACOES) |
+| 🧭 Planejamento & Metas | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=PLANEJAMENTO-METAS) |
 
-> ⚠️ **Nota:** Os links usam os slugs mais prováveis. Se algum não funcionar, clique em [todas as stars](https://github.com/davidev-tech?tab=stars) e depois no nome da lista desejada — a URL correta aparecerá no navegador. Em caso de dúvida, me chame!
+> **⚠️ Importante:** Os links acima são provisórios. Para acertar o slug exato de cada lista:
+> 1. No seu perfil, vá em **Stars**.
+> 2. Clique no nome da lista (ex.: "📚 Trilhas de Estudo").
+> 3. Copie a URL inteira do navegador (termina com `list=...`).
+> 4. Substitua o link na tabela acima pelo valor correto.
 
 ---
 
