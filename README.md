@@ -70,22 +70,6 @@ Organizei meus projetos e estudos em listas navegáveis. Escolha uma categoria:
 
 ---
 
-## 📊 Métricas Públicas
-
-<div align="center">
-  <a href="https://github.com/davidev-tech?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositórios%20Públicos-5-blue?style=for-the-badge&logo=github" alt="Repositórios" />
-  </a>
-  <a href="https://github.com/davidev-tech?tab=stars">
-    <img src="https://img.shields.io/badge/Estrelas%20Recebidas-0-yellow?style=for-the-badge&logo=github" alt="Estrelas" />
-  </a>
-  <img src="https://img.shields.io/badge/Commits%20em%202026-30%2B-brightgreen?style=for-the-badge&logo=git" alt="Commits" />
-  <img src="https://img.shields.io/badge/Projetos%20Concluídos-1-purple?style=for-the-badge&logo=checkmarx" alt="Projetos" />
-</div>
-
-<sub>📅 Atualizado manualmente a cada marco importante. Reflete apenas repositórios públicos.</sub>
----
-
 ## 🎯 Foco Atual
 
 <details open>
