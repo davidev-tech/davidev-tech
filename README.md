@@ -45,15 +45,15 @@ Organizei meus projetos e estudos em **10 listas temáticas** de stars. Clique n
 | Lista | Link (substitua com a URL da lista) |
 |-------|-------------------------------------|
 | 📚 Trilhas de Estudo | [Ver lista](https://github.com/stars/davidev-tech/lists/trilhas-de-estudo) |
-| 🛠️ Projetos & Sistemas | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=PROJETOS-SISTEMAS) |
-| 📚 Aprendizado em Andamento | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=APRENDIZADO-EM-ANDAMENTO) |
-| ✅ Aprendizado Concluído | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=APRENDIZADO-CONCLUIDO) |
-| ⏸️ Em Pausa | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=EM-PAUSA) |
-| 🛠️ Projetos em Andamento | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=PROJETOS-EM-ANDAMENTO) |
-| 🚀 Projetos Concluídos | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=PROJETOS-CONCLUIDOS) |
-| 🧪 Laboratório & Experimentos | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=LABORATORIO-EXPERIMENTOS) |
-| ⚙️ Templates & Configurações | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=TEMPLATES-CONFIGURACOES) |
-| 🧭 Planejamento & Metas | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=PLANEJAMENTO-METAS) |
+| 🛠️ Projetos & Sistemas | [Ver lista](https://github.com/stars/davidev-tech/lists/projetos-sistemas) |
+| 📚 Aprendizado em Andamento | [Ver lista](https://github.com/stars/davidev-tech/lists/aprendizado-em-andamento) |
+| ✅ Aprendizado Concluído | [Ver lista](https://github.com/stars/davidev-tech/lists/aprendizado-conclu%C3%ADdo) |
+| ⏸️ Em Pausa | [Ver lista](https://github.com/stars/davidev-tech/lists/em-pausa) |
+| 🛠️ Projetos em Andamento | [Ver lista](https://github.com/stars/davidev-tech/lists/projetos-em-andamento) |
+| 🚀 Projetos Concluídos | [Ver lista](https://github.com/stars/davidev-tech/lists/projetos-conclu%C3%ADdos) |
+| 🧪 Laboratório & Experimentos | [Ver lista](https://github.com/stars/davidev-tech/lists/laborat%C3%B3rio-experimentos) |
+| ⚙️ Templates & Configurações | [Ver lista](https://github.com/stars/davidev-tech/lists/templates-configura%C3%A7%C3%B5es) |
+| 🧭 Planejamento & Metas | [Ver lista](https://github.com/stars/davidev-tech/lists/planejamento-metas) |
 
 > **⚠️ Importante:** Os links acima são provisórios. Para acertar o slug exato de cada lista:
 > 1. No seu perfil, vá em **Stars**.
