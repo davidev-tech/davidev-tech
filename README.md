@@ -2,6 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=davidev-tech&color=blue" alt="Profile views" />
   <h1>Davi Dev Tech</h1>
   <p><em>Engenharia de Software · Python · Modelagem de Dados · PostgreSQL</em></p>
+  
+  ![Disponível para Estágio](https://img.shields.io/badge/🔍%20Disponível%20para%20Estágio-2026-blue?style=for-the-badge)
 </div>
 
 ---
@@ -14,6 +16,35 @@
 - 💻 Uso **Git Bash** diariamente para versionamento de todos os meus estudos e projetos.
 
 > *“Código limpo, modelagem bem pensada e um banco de dados robusto formam a base de qualquer sistema confiável.”*
+
+---
+
+### 🔎 Buscando Estágio
+Estou ativamente em busca de uma **oportunidade de estágio em desenvolvimento de software**, com interesse especial em:
+- Backend (Python, Java, APIs)
+- Dados (modelagem, SQL, PostgreSQL)
+- Qualquer área onde eu possa aplicar meus fundamentos e continuar aprendendo com desafios reais.
+
+Se você procura alguém com **disciplina, método de estudo comprovado e vontade de crescer**, adoraria conversar.
+
+---
+
+### 🗂️ Explore Meus Repositórios por Status
+
+Organizei meus projetos e estudos em listas temáticas. Clique para ver cada categoria:
+
+| Lista | Link |
+|-------|------|
+| 📚 Aprendizado em Andamento | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=aprendizado-em-andamento) |
+| ✅ Aprendizado Concluído | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=aprendizado-concluido) |
+| ⏸️ Em Pausa / Aprofundamento Futuro | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=em-pausa) |
+| 🛠️ Projetos em Andamento | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=projetos-em-andamento) |
+| 🚀 Projetos Concluídos | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=projetos-concluidos) |
+| 🧪 Laboratório & Experimentos | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=laboratorio) |
+| ⚙️ Templates & Configurações | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=templates) |
+| 🧭 Planejamento & Metas | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=planejamento-metas) |
+
+> **Dica:** Os nomes dos repositórios seguem o padrão `learn-[plataforma]-[tech]` para estudos e `project-[nome]-[tech]` para projetos. Todo o planejamento está no hub [`mapa-da-jornada`](https://github.com/davidev-tech/mapa-da-jornada).
 
 ---
 
@@ -48,7 +79,7 @@
 
 ### 📂 Projetos em Destaque
 
-#### 🐍 [Curso_em_Video_Python](https://github.com/davidev-tech/Curso_em_Video_Python)  
+#### 🐍 [learn-cursoemvideo-python](https://github.com/davidev-tech/learn-cursoemvideo-python)  
 **+100 exercícios resolvidos** e anotações cobrindo toda a trilha de Python:
 - Fundamentos, condicionais, laços
 - Tuplas, listas, dicionários, funções
