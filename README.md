@@ -42,7 +42,7 @@ Estou ativamente procurando uma **oportunidade de estágio em desenvolvimento de
 
 Organizei meus projetos e estudos em **10 listas temáticas** de stars. Clique no nome da lista para ver os repositórios:
 
-| Lista | Link (substitua com a URL da lista) |
+| Lista | Link |
 |-------|-------------------------------------|
 | 📚 Trilhas de Estudo | [Ver lista](https://github.com/stars/davidev-tech/lists/trilhas-de-estudo) |
 | 🛠️ Projetos & Sistemas | [Ver lista](https://github.com/stars/davidev-tech/lists/projetos-sistemas) |
