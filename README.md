@@ -34,27 +34,29 @@ Estou ativamente procurando uma **oportunidade de estágio em desenvolvimento de
 - Dados (modelagem relacional, SQL, PostgreSQL)
 - Ambientes que valorizem aprendizado contínuo e qualidade de código.
 
-[![LinkedIn](https://img.shields.io/badge/Conecte--se_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidev-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidev-tech)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidev.tech@gmail.com)
 
 ---
 
 ## 📂 Explore meus repositórios
 
-Organizei meus projetos e estudos em **listas temáticas** de stars. Clique para navegar:
+Organizei meus projetos e estudos em **listas temáticas** de stars. Clique no nome da lista para ver os repositórios correspondentes:
 
-| Lista | Descrição |
-|-------|-----------|
-| 📚 Aprendizado em Andamento | Cursos que estou cursando agora |
-| ✅ Aprendizado Concluído | Trilhas finalizadas e documentadas |
-| ⏸️ Em Pausa / Aprofundamento | Concluídos essencialmente, com expansão planejada |
-| 🛠️ Projetos em Andamento | Sistemas sendo construídos |
-| 🚀 Projetos Concluídos | Projetos finalizados com README e lições |
-| 🧪 Laboratório & Experimentos | Testes, POCs, desafios de código |
-| ⚙️ Templates & Configurações | Meu toolkit pessoal (dotfiles, boilerplates) |
-| 🧭 Planejamento & Metas | Visão de carreira e estratégia (conteúdo privado) |
-| ... | *(adicione suas outras 2 listas aqui)* |
+| Lista | Link |
+|-------|------|
+| 📚 Trilhas de Estudo | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=trilhas-de-estudo) |
+| 🛠️ Projetos & Sistemas | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=projetos-sistemas) |
+| 📚 Aprendizado em Andamento | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=aprendizado-em-andamento) |
+| ✅ Aprendizado Concluído | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=aprendizado-concluido) |
+| ⏸️ Em Pausa | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=em-pausa) |
+| 🛠️ Projetos em Andamento | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=projetos-em-andamento) |
+| 🚀 Projetos Concluídos | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=projetos-concluidos) |
+| 🧪 Laboratório & Experimentos | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=laboratorio-experimentos) |
+| ⚙️ Templates & Configurações | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=templates-configuracoes) |
+| 🧭 Planejamento & Metas | [Ver lista](https://github.com/davidev-tech?tab=stars&type=list&list=planejamento-metas) |
 
-> ⚠️ **Nota:** Como as listas são dinâmicas, os links diretos serão incluídos assim que você confirmar os slugs. Enquanto isso, você pode acessar [todas as minhas stars](https://github.com/davidev-tech?tab=stars).
+> ⚠️ **Nota:** Os links usam os slugs mais prováveis. Se algum não funcionar, clique em [todas as stars](https://github.com/davidev-tech?tab=stars) e depois no nome da lista desejada — a URL correta aparecerá no navegador. Em caso de dúvida, me chame!
 
 ---
 
@@ -103,10 +105,10 @@ Organizei meus projetos e estudos em **listas temáticas** de stars. Clique para
 
 ---
 
-## 🤝 Vamos conectar?
+## 🤝 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidev-tech)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidev-tech)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidev.tech@gmail.com)
 
 ---
 
